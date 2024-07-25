@@ -1,6 +1,6 @@
 [![esphome_badge](https://img.shields.io/badge/ESPHome-Components-blue.svg)](https://esphome.io/)
-[![Build](https://github.com/andrewjswan/esphome-components/actions/workflows/build.yaml/badge.svg)](https://github.com/andrewjswan/esphome-components/actions/workflows/build.yaml)
-[![GitHub](https://img.shields.io/github/license/andrewjswan/esphome-components?color=blue)](https://github.com/andrewjswan/esphome-components/blob/master/LICENSE)
+[![Build](https://github.com/electro-nic/esphome-components/actions/workflows/build.yaml/badge.svg)](https://github.com/electro-nic/esphome-components/actions/workflows/build.yaml)
+[![GitHub](https://img.shields.io/github/license/electro-nic/esphome-components?color=blue)](https://github.com/electro-nic/esphome-components/blob/master/LICENSE)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 # ESPHome Components
@@ -13,7 +13,7 @@ Allows you to run a script in a parallel thread (Task)
 external_components:
   - source:
       type: git
-      url: https://github.com/andrewjswan/esphome-components
+      url: https://github.com/electro-nic/esphome-components
       ref: main
     components: [ shadow ]
     refresh: 60s
