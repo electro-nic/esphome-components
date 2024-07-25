@@ -4,7 +4,7 @@
 #include "esphome/core/component.h"
 #include "esphome/core/helpers.h"
 // #include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
+// #include "freertos/task.h"
 #include "Arduino.h"
 
 static const char *const SHADOW_VERSION = "2024.7.1";
