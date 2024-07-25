@@ -3,7 +3,7 @@
 #include "esphome.h"
 #include "esphome/core/component.h"
 #include "esphome/core/helpers.h"
-#include "freertos/FreeRTOS.h"
+// #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "Arduino.h"
 
