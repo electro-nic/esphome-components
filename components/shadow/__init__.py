@@ -8,7 +8,7 @@ from esphome.components import script
 
 _LOGGER = logging.getLogger(__name__)
 
-CODEOWNERS = ["@andrewjswan"]
+CODEOWNERS = ["@electro-nic"]
 
 DEPENDENCIES = ["script"]
 
